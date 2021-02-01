@@ -1,0 +1,8 @@
+C:\Users\WhiteComet\source\repos\CalculateLibrary\bin\Debug\netcoreapp3.1\CalculateLibrary.deps.json
+C:\Users\WhiteComet\source\repos\CalculateLibrary\bin\Debug\netcoreapp3.1\CalculateLibrary.dll
+C:\Users\WhiteComet\source\repos\CalculateLibrary\bin\Debug\netcoreapp3.1\CalculateLibrary.pdb
+C:\Users\WhiteComet\source\repos\CalculateLibrary\obj\Debug\netcoreapp3.1\CalculateLibrary.AssemblyInfoInputs.cache
+C:\Users\WhiteComet\source\repos\CalculateLibrary\obj\Debug\netcoreapp3.1\CalculateLibrary.AssemblyInfo.cs
+C:\Users\WhiteComet\source\repos\CalculateLibrary\obj\Debug\netcoreapp3.1\CalculateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WhiteComet\source\repos\CalculateLibrary\obj\Debug\netcoreapp3.1\CalculateLibrary.dll
+C:\Users\WhiteComet\source\repos\CalculateLibrary\obj\Debug\netcoreapp3.1\CalculateLibrary.pdb
